@@ -1,0 +1,1 @@
+This repository demonstrates a common error in JavaScript functions: failing to handle non-numeric inputs. The `foo` function attempts to add two numbers but doesn't check if the inputs are actually numbers. This can lead to runtime errors. The solution demonstrates robust input validation to prevent these issues.
